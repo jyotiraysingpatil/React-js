@@ -1,0 +1,14 @@
+.myclass{
+    background-color:pink;
+    color:white;
+    border:2px brown;
+    padding-left:250px;
+}
+
+.footer{
+    border: 2px brown;
+    padding-left:250px;
+    position:fixed;
+    bottom: 0;
+    width:100%;
+}
